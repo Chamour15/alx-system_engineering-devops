@@ -9,3 +9,6 @@
 3. 2-bring_me_home
    - Change the current working directory to your home directory.
 
+4. 3-listfiles
+   - Display current directory contents in a long format.
+
