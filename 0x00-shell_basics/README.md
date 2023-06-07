@@ -6,3 +6,6 @@
 2. 1-listit
    - Display the contents of your current working directory.
 
+3. 2-bring_me_home
+   - Change the current working directory to your home directory.
+
