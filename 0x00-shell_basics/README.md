@@ -17,3 +17,7 @@
 
 6. 5-listfilesdigitonly
    - Display current directory contents with user and group ID numerically.
+
+7. 6-firstdirectory
+   - Create my_first_directory directory in the /tmp directory.
+
