@@ -2,3 +2,7 @@
 
 1. 0-current_working_directory
    - Prints the absolute path name of the current working directory in terminal.
+
+2. 1-listit
+   - Display the contents of your current working directory.
+
