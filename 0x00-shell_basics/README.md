@@ -53,4 +53,7 @@
 18. 102-tree
     - A Shell script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 
+19. 103-commas
+    - A shell script that lists all the files and directories of the current directory, separated by commas (,).
+
 
