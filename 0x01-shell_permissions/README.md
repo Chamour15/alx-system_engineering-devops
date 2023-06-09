@@ -46,3 +46,6 @@
 14. 13-change_group
     - A Shell script that changes the group owner to school for the file **hello**.
 
+15. 100-change_owner_and_group
+    - A Shell script that changes the owner to **vincent** and the group owner to **staff** for all the files and directories in the working directory.
+
