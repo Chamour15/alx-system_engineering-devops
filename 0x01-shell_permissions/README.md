@@ -12,4 +12,6 @@
 4. 3-new_owner
    - A Shell script that changes the owner of the file hello to the user **betty**.
 
+5. 4-empty
+   - A Shell script that creates an empty file called **hello**.
 
