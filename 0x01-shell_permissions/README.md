@@ -18,3 +18,6 @@
 6. 5-execute
    - A Shell script that adds execute permission to the owner of the file **hello**.
 
+7. 6-multiple_permissions
+   - A Shell script that adds execute permission to the owner and the group owner, and read permission to other users, to the file **hello**.
+
