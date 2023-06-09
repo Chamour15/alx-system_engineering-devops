@@ -43,3 +43,6 @@
 13. 12-directory_permissions
     - A Shell script that creates a directory called **my_dir** with permissions 751 in the working directory.
 
+14. 13-change_group
+    - A Shell script that changes the group owner to school for the file **hello**.
+
